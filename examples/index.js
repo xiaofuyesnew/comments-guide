@@ -11,3 +11,24 @@
  * 
  */
 
+/**
+ * 定义变量 name { string } age { intger }
+ */
+var name = 'zhangsan',
+    age = 18
+
+
+/**
+ * @method test
+ * @param {string} name 
+ * @param {int} age 
+ * @function
+ *     弹出对话框，显示对应传入参数的提示语
+ */
+function test(name, age) {
+    alert('Hi, ' + name! + 'age: ' + age)
+}
+
+//调用test(name, age)
+test(name, age)
+

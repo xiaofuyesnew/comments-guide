@@ -43,6 +43,14 @@
     > 
     > //单行注释
     > ```
+2. 函数注释
+    >```javascript
+    >   /**
+    >     *@method 方法名称（函数名）
+    >     *@param {string} name 参数{数据类型}名称
+    >     *@function 函数功能描述
+    >     */
+    >```
 
 [查看范例](examples/index.js)
 
@@ -50,13 +58,16 @@
 
 1. 有且仅有一种注释方式
 
-    > ```
+    > ```CSS
     > /* CSS注释 */
     > ```
 
 [查看范例](examples/index.css)
 ## HTML
-
+1. HTML的注释方式
+    > ```html
+    >   <!-- 注释的内容 -->
+    > ```
 
 [查看范例](examples/index.html)
 
