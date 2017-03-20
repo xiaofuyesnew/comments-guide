@@ -1,6 +1,6 @@
 /**
  * 
- * @file index.css
+ * @file index.js
  * @author 张三
  * @create 2017-03-17
  * @update 2017-03-18
