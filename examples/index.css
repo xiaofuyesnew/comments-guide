@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/*
+    @file index.css
+    @author 张三
+    @create 2017-03-17
+    @update 2017-03-18
+    @description
+        一个样式表的范例，样式表注释应该怎么写
+        2017-03-17更新： 增加了页面的主要样式
+        2017-03-18更新 by 李四： 新添组件XX样式编写
+*/
+
+/*框架样式，引用范围全局（或index.html等特定页面）*/
+.g-mn{
+    width: 1000px;
+    margin: 0 auto; /*页面居中*/
+}
+
+/*（公共）模块样式，引用范围（全局）**.html页面的XX功能模块样式*/
+
+.m-nav {
+    width: 100%;
+    height: 40px;
+    /*DEPRECATED 2017-03-20 by 李四 不需要的样式
+    display: none;
+    */
+    /*TODO: 要写导航相关的样式*/
+}
