@@ -42,6 +42,8 @@
     > //单行注释
     > ```
 
+[查看范例](examples/index.js)
+
 ## CSS
 
 1. 有且仅有一种注释方式
@@ -50,7 +52,11 @@
     > /* CSS注释 */
     > ```
 
+[查看范例](examples/index.css)
 ## HTML
+
+
+[查看范例](examples/index.html)
 
 ## PHP
 
@@ -78,5 +84,11 @@ git config --global user.name "你的名字"
 git config --global user.email "你的邮箱"
 ```
 
-设置好之后，你就可以从git库里clone东西了。
+设置好之后，你就可以从git库里clone东西了
+```bash
+git clone https://github.com/xiaofuyesnew/comments-guide.git
+```
 
+然后本仓库的代码就下载到你的本地了
+
+<稍后会推出教你使用远程仓库的教程>
