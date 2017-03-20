@@ -7,7 +7,7 @@
     你写的注释是给代码读者看的: 下一个需要理解你的代码的人可能就是你自己!
 
 
-[有任何问题可以在这里提出来](/issues)
+[有任何问题可以在这里提出来](https://github.com/xiaofuyesnew/comments-guide/issues)
 
 ## 公共注释
 
