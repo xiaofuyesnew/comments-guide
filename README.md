@@ -50,6 +50,7 @@
     >   /**
     >     *@method 方法名称（函数名）
     >     *@param {string} name 参数{数据类型}名称
+    >     *@return {string} name 返回{数据类型}名称
     >     *@function 函数功能描述
     >     */
     >```
