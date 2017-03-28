@@ -74,6 +74,8 @@
 
 [查看范例](examples/index.html)
 
+[HTML编码规范的补充参考可以点击这里](http://www.runoob.com/html/html5-syntax.html)
+
 ## PHP
 
 > 我不是很懂PHP，希望有同事能够写个范例并给我个Pullrequest
